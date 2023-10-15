@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "/hWnZ7IHwN11ObACxVfy0zAFbq8v9ohYJvPJU8FfTrS839i1opHNIBBGhFmRNLBJ7RdyhnSNuc5WufCYwHZumA==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\C#\\RSA_ATBMTT\\ATBMTT_BTL_RSA_BigBit\\ATBMTT_BTL_RSA_BigBit\\ATBMTT_BTL_RSA_BigBit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phanp\\.nuget\\packages\\commonservicelocator\\1.3.0\\commonservicelocator.1.3.0.nupkg.sha512",
+    "C:\\Users\\phanp\\.nuget\\packages\\ipnetwork2\\2.6.589\\ipnetwork2.2.6.589.nupkg.sha512",
+    "C:\\Users\\phanp\\.nuget\\packages\\microsoft.office.interop.word\\15.0.4797.1004\\microsoft.office.interop.word.15.0.4797.1004.nupkg.sha512",
+    "C:\\Users\\phanp\\.nuget\\packages\\xact.core.pcl\\0.0.5014\\xact.core.pcl.0.0.5014.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'CommonServiceLocator 1.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "CommonServiceLocator",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'XAct.Core.PCL 0.0.5014' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "XAct.Core.PCL",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
